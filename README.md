@@ -1,2 +1,4 @@
 # 12-git-github
- 12 - GIT e GitHub
+Repositório 12 - GIT e GitHub
+
+Treinamento
