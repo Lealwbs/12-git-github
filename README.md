@@ -3,4 +3,4 @@ Repositório 12 - GIT e GitHub
 
 Treinamento
 
-Essa linha u alterei diretamente na web
+Essa linha eu alterei diretamente na web
